@@ -1,5 +1,5 @@
 <h1 align="center">Mr. Scott J Horning</h1>
-<h3 align="center">A humble data warrior campaigning for insights. Distilling data. Telling tales.</h3>
+<h3 align="center">A data moonshinner. Distilling insights by the pale moonlight.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
