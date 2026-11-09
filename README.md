@@ -3,7 +3,8 @@
 
 <p align="center">
   Portfolio of applied analytics work (Python, SQL, Power BI).<br>
-  <a href="https://github.com/scott-j-horning/Portfolio">github.com/scott-j-horning/Portfolio</a>
+  <a href="https://github.com/scott-j-horning/Portfolio">github.com/scott-j-horning/Portfolio</a><br>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYTY3OWZkNGEtZjk5Yi00ZTVhLWE0YWEtODE1YzA5NGNhYzEzIiwidCI6ImMzMTU4NjgwLTU2OGQtNDNjYi1iYTJjLTU0NzQyOTNiNDQ5OSJ9">Live dashboard — AVALL Normal Accidents</a>
 </p>
 
 <h3 align="left">Languages and tools</h3>
