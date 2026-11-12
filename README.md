@@ -4,8 +4,8 @@
 <p align="center">
   Portfolio of applied analytics work (Python, SQL, Power BI).<br>
   <a href="https://github.com/scott-j-horning/Portfolio">github.com/scott-j-horning/Portfolio</a><br><br>
-  AVALL Normal Accidents: NTSB aviation accidents framed through 
-  <a href="https://en.wikipedia.org/wiki/Normal_Accidents">Charles Perrow’s Normal Accidents</a> lens.<br>
+  AVALL Normal Accidents: NTSB aviation accidents framed through Charles Perrow’s 
+  <a href="https://en.wikipedia.org/wiki/Normal_Accidents">Normal Accidents</a> lens.<br>
   <a href="https://github.com/scott-j-horning/avall-normal-accidents">Repository</a>
   ·
   <a href="https://app.powerbi.com/view?r=eyJrIjoiYTY3OWZkNGEtZjk5Yi00ZTVhLWE0YWEtODE1YzA5NGNhYzEzIiwidCI6ImMzMTU4NjgwLTU2OGQtNDNjYi1iYTJjLTU0NzQyOTNiNDQ5OSJ9">Live dashboard</a>
